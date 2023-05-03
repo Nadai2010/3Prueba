@@ -30,7 +30,7 @@ No esperes ningún beneficio de usar esto aparte de aprender algunas cosas inter
 
 ## Pasos
 
-![Steps](assets/steps.png)
+![Steps](imágenes/steps.png)
 
 ### 1. Crear un monedero de contrato inteligente y conectarlo a un Explorador de Bloques
 
