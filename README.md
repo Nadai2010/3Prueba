@@ -1,6 +1,6 @@
 # Taller automatizado Starknet Cairo 101
 
-![banner](assets/banner.png)
+![banner](imágenes/banner.png)
 
 ¡Bienvenido!
 
